@@ -1,8 +1,6 @@
-## Hi Everyone!👋 , My name is Aspasya Salsabila 🌸
-⭐ I studied at SMK N 2 Magelang.
-
-⭐ I am currently learning about programming.
-
+## Hi Everyone!👋 , My name is Aspasya Salsabila 🖤
+🎀 I am currently learning about programming. 
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
 ## GitHub Stats 📈
