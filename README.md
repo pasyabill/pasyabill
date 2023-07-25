@@ -1,7 +1,9 @@
-## Hi 👋 , My name is Aspasya Salsabila
-I am a student in SMK N 2 Magelang.
+## Hi Everyone!👋 , My name is Aspasya Salsabila 🌸
+⭐ I studied at SMK N 2 Magelang.
 
-🌱 I’m currently learning about informatika
+⭐ I am currently learning about programming.
+
+
 
 ## GitHub Stats 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pasyabill&layout=compact&theme=radical)
