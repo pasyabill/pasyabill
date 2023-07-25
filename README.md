@@ -1,6 +1,6 @@
 ## Hi Everyone!👋 , My name is Aspasya Salsabila 🖤
-🎀 I am currently learning about programming. 
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+📍	 I am currently learning about programming. 
+
 
 
 ## GitHub Stats 📈
