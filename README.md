@@ -51,7 +51,4 @@
 
 
 [![GitHub: pasyabill](https://img.shields.io/github/followers/pasyabill?label=pasyabill&style=social)](https://github.com/pasyabill)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pasyabill.visitor-badge)
-
 </div>  
