@@ -19,8 +19,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasyabill&show_icons=true&theme=radical)
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
